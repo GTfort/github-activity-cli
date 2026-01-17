@@ -1,0 +1,23 @@
+{
+  "name": "github-activity-cli",
+  "version": "1.0.0",
+  "description": "CLI tool to fetch GitHub user activity",
+  "main": "github-activity.js",
+  "bin": {
+    "github-activity": "./github-activity.js"
+  },
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "keywords": [
+    "github",
+    "cli",
+    "activity",
+    "developer"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "engines": {
+    "node": ">=12.0.0"
+  }
+}
