@@ -31,14 +31,14 @@
         "twitter_username": null,
         "public_repos": 8,
         "public_gists": 8,
-        "followers": 21527,
+        "followers": 21529,
         "following": 9,
         "created_at": "2011-01-25T18:44:36Z",
         "updated_at": "2025-12-22T12:24:29Z"
       },
       "events": []
     },
-    "timestamp": 1768621869727
+    "timestamp": 1768649207087
   },
   "events_microsoft_5_all": {
     "data": {
@@ -331,5 +331,1095 @@
       ]
     },
     "timestamp": 1768622047307
+  },
+  "events_torvalds_15_all": {
+    "data": {
+      "user": {
+        "login": "torvalds",
+        "id": 1024025,
+        "node_id": "MDQ6VXNlcjEwMjQwMjU=",
+        "avatar_url": "https://avatars.githubusercontent.com/u/1024025?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/torvalds",
+        "html_url": "https://github.com/torvalds",
+        "followers_url": "https://api.github.com/users/torvalds/followers",
+        "following_url": "https://api.github.com/users/torvalds/following{/other_user}",
+        "gists_url": "https://api.github.com/users/torvalds/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/torvalds/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/torvalds/subscriptions",
+        "organizations_url": "https://api.github.com/users/torvalds/orgs",
+        "repos_url": "https://api.github.com/users/torvalds/repos",
+        "events_url": "https://api.github.com/users/torvalds/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/torvalds/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false,
+        "name": "Linus Torvalds",
+        "company": "Linux Foundation",
+        "blog": "",
+        "location": "Portland, OR",
+        "email": null,
+        "hireable": null,
+        "bio": null,
+        "twitter_username": null,
+        "public_repos": 10,
+        "public_gists": 1,
+        "followers": 278350,
+        "following": 0,
+        "created_at": "2011-09-03T15:26:22Z",
+        "updated_at": "2026-01-13T07:10:05Z"
+      },
+      "events": [
+        {
+          "id": "7551940161",
+          "type": "PushEvent",
+          "actor": {
+            "id": 1024025,
+            "login": "torvalds",
+            "display_login": "torvalds",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/torvalds",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1024025?"
+          },
+          "repo": {
+            "id": 2325298,
+            "name": "torvalds/linux",
+            "url": "https://api.github.com/repos/torvalds/linux"
+          },
+          "payload": {
+            "repository_id": 2325298,
+            "push_id": 29847163548,
+            "ref": "refs/heads/master",
+            "head": "39d3389331abd712461f50249722f7ed9d815068",
+            "before": "b62ce2547fe8a8ba15857bb974bcad250c5420d6"
+          },
+          "public": true,
+          "created_at": "2026-01-16T23:45:38Z"
+        },
+        {
+          "id": "7547701922",
+          "type": "PushEvent",
+          "actor": {
+            "id": 1024025,
+            "login": "torvalds",
+            "display_login": "torvalds",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/torvalds",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1024025?"
+          },
+          "repo": {
+            "id": 2325298,
+            "name": "torvalds/linux",
+            "url": "https://api.github.com/repos/torvalds/linux"
+          },
+          "payload": {
+            "repository_id": 2325298,
+            "push_id": 29842921304,
+            "ref": "refs/heads/master",
+            "head": "b62ce2547fe8a8ba15857bb974bcad250c5420d6",
+            "before": "983d014aafb14ee5e4915465bf8948e8f3a723b5"
+          },
+          "public": true,
+          "created_at": "2026-01-16T20:24:05Z"
+        },
+        {
+          "id": "5866137071",
+          "type": "IssuesEvent",
+          "actor": {
+            "id": 1024025,
+            "login": "torvalds",
+            "display_login": "torvalds",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/torvalds",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1024025?"
+          },
+          "repo": {
+            "id": 1130786764,
+            "name": "torvalds/AudioNoise",
+            "url": "https://api.github.com/repos/torvalds/AudioNoise"
+          },
+          "payload": {
+            "action": "closed",
+            "issue": {
+              "url": "https://api.github.com/repos/torvalds/AudioNoise/issues/57",
+              "repository_url": "https://api.github.com/repos/torvalds/AudioNoise",
+              "labels_url": "https://api.github.com/repos/torvalds/AudioNoise/issues/57/labels{/name}",
+              "comments_url": "https://api.github.com/repos/torvalds/AudioNoise/issues/57/comments",
+              "events_url": "https://api.github.com/repos/torvalds/AudioNoise/issues/57/events",
+              "html_url": "https://github.com/torvalds/AudioNoise/issues/57",
+              "id": 3816318812,
+              "node_id": "I_kwDOQ2ZvzM7jeGdc",
+              "number": 57,
+              "title": "the gloa",
+              "user": {
+                "login": "guiranlynn20",
+                "id": 81098136,
+                "node_id": "MDQ6VXNlcjgxMDk4MTM2",
+                "avatar_url": "https://avatars.githubusercontent.com/u/81098136?v=4",
+                "gravatar_id": "",
+                "url": "https://api.github.com/users/guiranlynn20",
+                "html_url": "https://github.com/guiranlynn20",
+                "followers_url": "https://api.github.com/users/guiranlynn20/followers",
+                "following_url": "https://api.github.com/users/guiranlynn20/following{/other_user}",
+                "gists_url": "https://api.github.com/users/guiranlynn20/gists{/gist_id}",
+                "starred_url": "https://api.github.com/users/guiranlynn20/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/guiranlynn20/subscriptions",
+                "organizations_url": "https://api.github.com/users/guiranlynn20/orgs",
+                "repos_url": "https://api.github.com/users/guiranlynn20/repos",
+                "events_url": "https://api.github.com/users/guiranlynn20/events{/privacy}",
+                "received_events_url": "https://api.github.com/users/guiranlynn20/received_events",
+                "type": "User",
+                "user_view_type": "public",
+                "site_admin": false
+              },
+              "labels": [],
+              "state": "closed",
+              "locked": false,
+              "assignee": null,
+              "assignees": [],
+              "milestone": null,
+              "comments": 0,
+              "created_at": "2026-01-15T07:20:54Z",
+              "updated_at": "2026-01-16T17:54:25Z",
+              "closed_at": "2026-01-16T17:54:25Z",
+              "active_lock_reason": null,
+              "sub_issues_summary": {
+                "total": 0,
+                "completed": 0,
+                "percent_completed": 0
+              },
+              "issue_dependencies_summary": {
+                "blocked_by": 0,
+                "total_blocked_by": 0,
+                "blocking": 0,
+                "total_blocking": 0
+              },
+              "body": null,
+              "reactions": {
+                "url": "https://api.github.com/repos/torvalds/AudioNoise/issues/57/reactions",
+                "total_count": 0,
+                "+1": 0,
+                "-1": 0,
+                "laugh": 0,
+                "hooray": 0,
+                "confused": 0,
+                "heart": 0,
+                "rocket": 0,
+                "eyes": 0
+              },
+              "timeline_url": "https://api.github.com/repos/torvalds/AudioNoise/issues/57/timeline",
+              "performed_via_github_app": null,
+              "state_reason": "completed"
+            }
+          },
+          "public": true,
+          "created_at": "2026-01-16T17:54:25Z"
+        },
+        {
+          "id": "5865986391",
+          "type": "PullRequestEvent",
+          "actor": {
+            "id": 1024025,
+            "login": "torvalds",
+            "display_login": "torvalds",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/torvalds",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1024025?"
+          },
+          "repo": {
+            "id": 1130786764,
+            "name": "torvalds/AudioNoise",
+            "url": "https://api.github.com/repos/torvalds/AudioNoise"
+          },
+          "payload": {
+            "action": "closed",
+            "number": 58,
+            "pull_request": {
+              "url": "https://api.github.com/repos/torvalds/AudioNoise/pulls/58",
+              "id": 3176666527,
+              "number": 58,
+              "head": {
+                "ref": "ffplay",
+                "sha": "1c8156375d598e1793955a1023986461547eea78",
+                "repo": {
+                  "id": 1134852486,
+                  "url": "https://api.github.com/repos/quink-black/AudioNoise",
+                  "name": "AudioNoise"
+                }
+              },
+              "base": {
+                "ref": "main",
+                "sha": "2a4f19102e2af9b67b36f96b0b6c3839d0c1fe9f",
+                "repo": {
+                  "id": 1130786764,
+                  "url": "https://api.github.com/repos/torvalds/AudioNoise",
+                  "name": "AudioNoise"
+                }
+              }
+            }
+          },
+          "public": true,
+          "created_at": "2026-01-15T09:47:58Z"
+        },
+        {
+          "id": "5865986250",
+          "type": "IssueCommentEvent",
+          "actor": {
+            "id": 1024025,
+            "login": "torvalds",
+            "display_login": "torvalds",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/torvalds",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1024025?"
+          },
+          "repo": {
+            "id": 1130786764,
+            "name": "torvalds/AudioNoise",
+            "url": "https://api.github.com/repos/torvalds/AudioNoise"
+          },
+          "payload": {
+            "action": "created",
+            "issue": {
+              "url": "https://api.github.com/repos/torvalds/AudioNoise/issues/58",
+              "repository_url": "https://api.github.com/repos/torvalds/AudioNoise",
+              "labels_url": "https://api.github.com/repos/torvalds/AudioNoise/issues/58/labels{/name}",
+              "comments_url": "https://api.github.com/repos/torvalds/AudioNoise/issues/58/comments",
+              "events_url": "https://api.github.com/repos/torvalds/AudioNoise/issues/58/events",
+              "html_url": "https://github.com/torvalds/AudioNoise/pull/58",
+              "id": 3816794529,
+              "node_id": "PR_kwDOQ2ZvzM69WBWf",
+              "number": 58,
+              "title": "Simplify ffplay input handling in Makefile",
+              "user": {
+                "login": "quink-black",
+                "id": 9263126,
+                "node_id": "MDQ6VXNlcjkyNjMxMjY=",
+                "avatar_url": "https://avatars.githubusercontent.com/u/9263126?v=4",
+                "gravatar_id": "",
+                "url": "https://api.github.com/users/quink-black",
+                "html_url": "https://github.com/quink-black",
+                "followers_url": "https://api.github.com/users/quink-black/followers",
+                "following_url": "https://api.github.com/users/quink-black/following{/other_user}",
+                "gists_url": "https://api.github.com/users/quink-black/gists{/gist_id}",
+                "starred_url": "https://api.github.com/users/quink-black/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/quink-black/subscriptions",
+                "organizations_url": "https://api.github.com/users/quink-black/orgs",
+                "repos_url": "https://api.github.com/users/quink-black/repos",
+                "events_url": "https://api.github.com/users/quink-black/events{/privacy}",
+                "received_events_url": "https://api.github.com/users/quink-black/received_events",
+                "type": "User",
+                "user_view_type": "public",
+                "site_admin": false
+              },
+              "labels": [],
+              "state": "closed",
+              "locked": false,
+              "assignee": null,
+              "assignees": [],
+              "milestone": null,
+              "comments": 1,
+              "created_at": "2026-01-15T09:47:58Z",
+              "updated_at": "2026-01-16T17:46:37Z",
+              "closed_at": "2026-01-16T17:46:36Z",
+              "active_lock_reason": null,
+              "draft": false,
+              "pull_request": {
+                "url": "https://api.github.com/repos/torvalds/AudioNoise/pulls/58",
+                "html_url": "https://github.com/torvalds/AudioNoise/pull/58",
+                "diff_url": "https://github.com/torvalds/AudioNoise/pull/58.diff",
+                "patch_url": "https://github.com/torvalds/AudioNoise/pull/58.patch",
+                "merged_at": null
+              },
+              "body": "Let ffplay read from file directly instead of pipe.",
+              "reactions": {
+                "url": "https://api.github.com/repos/torvalds/AudioNoise/issues/58/reactions",
+                "total_count": 0,
+                "+1": 0,
+                "-1": 0,
+                "laugh": 0,
+                "hooray": 0,
+                "confused": 0,
+                "heart": 0,
+                "rocket": 0,
+                "eyes": 0
+              },
+              "timeline_url": "https://api.github.com/repos/torvalds/AudioNoise/issues/58/timeline",
+              "performed_via_github_app": null,
+              "state_reason": null
+            },
+            "comment": {
+              "url": "https://api.github.com/repos/torvalds/AudioNoise/issues/comments/3761136243",
+              "html_url": "https://github.com/torvalds/AudioNoise/pull/58#issuecomment-3761136243",
+              "issue_url": "https://api.github.com/repos/torvalds/AudioNoise/issues/58",
+              "id": 3761136243,
+              "node_id": "IC_kwDOQ2ZvzM7gLmJz",
+              "user": {
+                "login": "torvalds",
+                "id": 1024025,
+                "node_id": "MDQ6VXNlcjEwMjQwMjU=",
+                "avatar_url": "https://avatars.githubusercontent.com/u/1024025?v=4",
+                "gravatar_id": "",
+                "url": "https://api.github.com/users/torvalds",
+                "html_url": "https://github.com/torvalds",
+                "followers_url": "https://api.github.com/users/torvalds/followers",
+                "following_url": "https://api.github.com/users/torvalds/following{/other_user}",
+                "gists_url": "https://api.github.com/users/torvalds/gists{/gist_id}",
+                "starred_url": "https://api.github.com/users/torvalds/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/torvalds/subscriptions",
+                "organizations_url": "https://api.github.com/users/torvalds/orgs",
+                "repos_url": "https://api.github.com/users/torvalds/repos",
+                "events_url": "https://api.github.com/users/torvalds/events{/privacy}",
+                "received_events_url": "https://api.github.com/users/torvalds/received_events",
+                "type": "User",
+                "user_view_type": "public",
+                "site_admin": false
+              },
+              "created_at": "2026-01-16T17:46:36Z",
+              "updated_at": "2026-01-16T17:46:36Z",
+              "body": "This breaks my \"SeymourDuncan\" test case, which is just \"repeat over some random mp3 samples of guitar pickups by Seymour Duncan\".\r\n\r\nThat's not a great test-case, but I don't have any actual reasonable guitar samples I can use (my own guitar only makes horrible screeching noises - not the fault of the guitar).  But it is one of the very very few actual real audio test cases I have, so I don't want to break it.",
+              "reactions": {
+                "url": "https://api.github.com/repos/torvalds/AudioNoise/issues/comments/3761136243/reactions",
+                "total_count": 0,
+                "+1": 0,
+                "-1": 0,
+                "laugh": 0,
+                "hooray": 0,
+                "confused": 0,
+                "heart": 0,
+                "rocket": 0,
+                "eyes": 0
+              },
+              "performed_via_github_app": null
+            }
+          },
+          "public": true,
+          "created_at": "2026-01-16T17:46:36Z"
+        },
+        {
+          "id": "7543571904",
+          "type": "PushEvent",
+          "actor": {
+            "id": 1024025,
+            "login": "torvalds",
+            "display_login": "torvalds",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/torvalds",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1024025?"
+          },
+          "repo": {
+            "id": 1130786764,
+            "name": "torvalds/AudioNoise",
+            "url": "https://api.github.com/repos/torvalds/AudioNoise"
+          },
+          "payload": {
+            "repository_id": 1130786764,
+            "push_id": 29838786706,
+            "ref": "refs/heads/main",
+            "head": "60f199a1eb40e76649dff0d5db65ec5cf9a763c5",
+            "before": "745e79b0ef279d98ae8f2ef450bf7d7b9abb13f4"
+          },
+          "public": true,
+          "created_at": "2026-01-16T17:42:50Z"
+        },
+        {
+          "id": "5865912022",
+          "type": "IssuesEvent",
+          "actor": {
+            "id": 1024025,
+            "login": "torvalds",
+            "display_login": "torvalds",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/torvalds",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1024025?"
+          },
+          "repo": {
+            "id": 1130786764,
+            "name": "torvalds/AudioNoise",
+            "url": "https://api.github.com/repos/torvalds/AudioNoise"
+          },
+          "payload": {
+            "action": "closed",
+            "issue": {
+              "url": "https://api.github.com/repos/torvalds/AudioNoise/issues/59",
+              "repository_url": "https://api.github.com/repos/torvalds/AudioNoise",
+              "labels_url": "https://api.github.com/repos/torvalds/AudioNoise/issues/59/labels{/name}",
+              "comments_url": "https://api.github.com/repos/torvalds/AudioNoise/issues/59/comments",
+              "events_url": "https://api.github.com/repos/torvalds/AudioNoise/issues/59/events",
+              "html_url": "https://github.com/torvalds/AudioNoise/issues/59",
+              "id": 3818768810,
+              "node_id": "I_kwDOQ2ZvzM7jncmq",
+              "number": 59,
+              "title": "Phaser filter instability when pot3 > 0.5",
+              "user": {
+                "login": "kaitas",
+                "id": 5110708,
+                "node_id": "MDQ6VXNlcjUxMTA3MDg=",
+                "avatar_url": "https://avatars.githubusercontent.com/u/5110708?v=4",
+                "gravatar_id": "",
+                "url": "https://api.github.com/users/kaitas",
+                "html_url": "https://github.com/kaitas",
+                "followers_url": "https://api.github.com/users/kaitas/followers",
+                "following_url": "https://api.github.com/users/kaitas/following{/other_user}",
+                "gists_url": "https://api.github.com/users/kaitas/gists{/gist_id}",
+                "starred_url": "https://api.github.com/users/kaitas/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/kaitas/subscriptions",
+                "organizations_url": "https://api.github.com/users/kaitas/orgs",
+                "repos_url": "https://api.github.com/users/kaitas/repos",
+                "events_url": "https://api.github.com/users/kaitas/events{/privacy}",
+                "received_events_url": "https://api.github.com/users/kaitas/received_events",
+                "type": "User",
+                "user_view_type": "public",
+                "site_admin": false
+              },
+              "labels": [],
+              "state": "closed",
+              "locked": false,
+              "assignee": null,
+              "assignees": [],
+              "milestone": null,
+              "comments": 1,
+              "created_at": "2026-01-15T19:01:58Z",
+              "updated_at": "2026-01-16T17:42:50Z",
+              "closed_at": "2026-01-16T17:42:50Z",
+              "active_lock_reason": null,
+              "sub_issues_summary": {
+                "total": 0,
+                "completed": 0,
+                "percent_completed": 0
+              },
+              "issue_dependencies_summary": {
+                "blocked_by": 0,
+                "total_blocked_by": 0,
+                "blocking": 0,
+                "total_blocking": 0
+              },
+              "body": "## Summary\n\nThe phaser effect becomes unstable (produces NaN/silence) when `pot3` exceeds approximately 0.5.\n\n## Root Cause\n\nIn `phaser.h`, the `phaser_init()` function doubles `pot3` before cubing it:\n\n```c\npot3 = 2*pot3;\nphaser.center_f = linear(pot3*pot3*pot3, 50, 880);  // Comment says \"50Hz .. 1kHz\"\n```\n\nWhen `pot3 = 1.0`:\n- After doubling: `pot3 = 2.0`\n- After cubing: `pot3³ = 8.0`\n- `center_f = 50 + 8 × (880 - 50) = 6690 Hz`\n\nThen in `phaser_step()`:\n```c\nfloat freq = fastpow(2, lfo*phaser.octaves) * phaser.center_f;\n```\n\nWith `octaves = 4` and LFO at maximum (+1):\n- `freq = 2⁴ × 6690 = 107,040 Hz`\n\nThis far exceeds the Nyquist frequency (24kHz at 48kHz sample rate), causing the biquad allpass filter to become unstable and produce NaN values.\n\n## Suggested Fix\n\nOption A: Remove the doubling (simplest):\n```c\n// pot3 = 2*pot3;  // Remove this line\nphaser.center_f = linear(pot3*pot3*pot3, 50, 880);\n```\n\nOption B: Clamp frequency in `phaser_step()`:\n```c\nfloat freq = fastpow(2, lfo*phaser.octaves) * phaser.center_f;\nfreq = fminf(freq, SAMPLES_PER_SEC * 0.45f);  // Stay below Nyquist\n```\n\n## Reproduction\n\n1. Set phaser effect\n2. Turn pot3 to maximum (1.0)\n3. Audio output becomes silent (NaN propagation)\n\n## Environment\n\nDiscovered while porting AudioNoise to WebAssembly (48kHz sample rate).\n\nDemo: https://akihiko.shirai.as/bad-apple-html/\nSource: https://github.com/kaitas/bad-apple-html\nVideo: https://youtu.be/_5ruHnVR9sI\n\nThanks for the elegant DSP code! The single-header design made this port straightforward.",
+              "reactions": {
+                "url": "https://api.github.com/repos/torvalds/AudioNoise/issues/59/reactions",
+                "total_count": 0,
+                "+1": 0,
+                "-1": 0,
+                "laugh": 0,
+                "hooray": 0,
+                "confused": 0,
+                "heart": 0,
+                "rocket": 0,
+                "eyes": 0
+              },
+              "timeline_url": "https://api.github.com/repos/torvalds/AudioNoise/issues/59/timeline",
+              "performed_via_github_app": null,
+              "state_reason": "completed"
+            }
+          },
+          "public": true,
+          "created_at": "2026-01-16T17:42:50Z"
+        },
+        {
+          "id": "5865902348",
+          "type": "IssueCommentEvent",
+          "actor": {
+            "id": 1024025,
+            "login": "torvalds",
+            "display_login": "torvalds",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/torvalds",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1024025?"
+          },
+          "repo": {
+            "id": 1130786764,
+            "name": "torvalds/AudioNoise",
+            "url": "https://api.github.com/repos/torvalds/AudioNoise"
+          },
+          "payload": {
+            "action": "created",
+            "issue": {
+              "url": "https://api.github.com/repos/torvalds/AudioNoise/issues/59",
+              "repository_url": "https://api.github.com/repos/torvalds/AudioNoise",
+              "labels_url": "https://api.github.com/repos/torvalds/AudioNoise/issues/59/labels{/name}",
+              "comments_url": "https://api.github.com/repos/torvalds/AudioNoise/issues/59/comments",
+              "events_url": "https://api.github.com/repos/torvalds/AudioNoise/issues/59/events",
+              "html_url": "https://github.com/torvalds/AudioNoise/issues/59",
+              "id": 3818768810,
+              "node_id": "I_kwDOQ2ZvzM7jncmq",
+              "number": 59,
+              "title": "Phaser filter instability when pot3 > 0.5",
+              "user": {
+                "login": "kaitas",
+                "id": 5110708,
+                "node_id": "MDQ6VXNlcjUxMTA3MDg=",
+                "avatar_url": "https://avatars.githubusercontent.com/u/5110708?v=4",
+                "gravatar_id": "",
+                "url": "https://api.github.com/users/kaitas",
+                "html_url": "https://github.com/kaitas",
+                "followers_url": "https://api.github.com/users/kaitas/followers",
+                "following_url": "https://api.github.com/users/kaitas/following{/other_user}",
+                "gists_url": "https://api.github.com/users/kaitas/gists{/gist_id}",
+                "starred_url": "https://api.github.com/users/kaitas/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/kaitas/subscriptions",
+                "organizations_url": "https://api.github.com/users/kaitas/orgs",
+                "repos_url": "https://api.github.com/users/kaitas/repos",
+                "events_url": "https://api.github.com/users/kaitas/events{/privacy}",
+                "received_events_url": "https://api.github.com/users/kaitas/received_events",
+                "type": "User",
+                "user_view_type": "public",
+                "site_admin": false
+              },
+              "labels": [],
+              "state": "closed",
+              "locked": false,
+              "assignee": null,
+              "assignees": [],
+              "milestone": null,
+              "comments": 1,
+              "created_at": "2026-01-15T19:01:58Z",
+              "updated_at": "2026-01-16T17:42:50Z",
+              "closed_at": "2026-01-16T17:42:50Z",
+              "active_lock_reason": null,
+              "sub_issues_summary": {
+                "total": 0,
+                "completed": 0,
+                "percent_completed": 0
+              },
+              "issue_dependencies_summary": {
+                "blocked_by": 0,
+                "total_blocked_by": 0,
+                "blocking": 0,
+                "total_blocking": 0
+              },
+              "body": "## Summary\n\nThe phaser effect becomes unstable (produces NaN/silence) when `pot3` exceeds approximately 0.5.\n\n## Root Cause\n\nIn `phaser.h`, the `phaser_init()` function doubles `pot3` before cubing it:\n\n```c\npot3 = 2*pot3;\nphaser.center_f = linear(pot3*pot3*pot3, 50, 880);  // Comment says \"50Hz .. 1kHz\"\n```\n\nWhen `pot3 = 1.0`:\n- After doubling: `pot3 = 2.0`\n- After cubing: `pot3³ = 8.0`\n- `center_f = 50 + 8 × (880 - 50) = 6690 Hz`\n\nThen in `phaser_step()`:\n```c\nfloat freq = fastpow(2, lfo*phaser.octaves) * phaser.center_f;\n```\n\nWith `octaves = 4` and LFO at maximum (+1):\n- `freq = 2⁴ × 6690 = 107,040 Hz`\n\nThis far exceeds the Nyquist frequency (24kHz at 48kHz sample rate), causing the biquad allpass filter to become unstable and produce NaN values.\n\n## Suggested Fix\n\nOption A: Remove the doubling (simplest):\n```c\n// pot3 = 2*pot3;  // Remove this line\nphaser.center_f = linear(pot3*pot3*pot3, 50, 880);\n```\n\nOption B: Clamp frequency in `phaser_step()`:\n```c\nfloat freq = fastpow(2, lfo*phaser.octaves) * phaser.center_f;\nfreq = fminf(freq, SAMPLES_PER_SEC * 0.45f);  // Stay below Nyquist\n```\n\n## Reproduction\n\n1. Set phaser effect\n2. Turn pot3 to maximum (1.0)\n3. Audio output becomes silent (NaN propagation)\n\n## Environment\n\nDiscovered while porting AudioNoise to WebAssembly (48kHz sample rate).\n\nDemo: https://akihiko.shirai.as/bad-apple-html/\nSource: https://github.com/kaitas/bad-apple-html\nVideo: https://youtu.be/_5ruHnVR9sI\n\nThanks for the elegant DSP code! The single-header design made this port straightforward.",
+              "reactions": {
+                "url": "https://api.github.com/repos/torvalds/AudioNoise/issues/59/reactions",
+                "total_count": 0,
+                "+1": 0,
+                "-1": 0,
+                "laugh": 0,
+                "hooray": 0,
+                "confused": 0,
+                "heart": 0,
+                "rocket": 0,
+                "eyes": 0
+              },
+              "timeline_url": "https://api.github.com/repos/torvalds/AudioNoise/issues/59/timeline",
+              "performed_via_github_app": null,
+              "state_reason": "completed"
+            },
+            "comment": {
+              "url": "https://api.github.com/repos/torvalds/AudioNoise/issues/comments/3761120722",
+              "html_url": "https://github.com/torvalds/AudioNoise/issues/59#issuecomment-3761120722",
+              "issue_url": "https://api.github.com/repos/torvalds/AudioNoise/issues/59",
+              "id": 3761120722,
+              "node_id": "IC_kwDOQ2ZvzM7gLiXS",
+              "user": {
+                "login": "torvalds",
+                "id": 1024025,
+                "node_id": "MDQ6VXNlcjEwMjQwMjU=",
+                "avatar_url": "https://avatars.githubusercontent.com/u/1024025?v=4",
+                "gravatar_id": "",
+                "url": "https://api.github.com/users/torvalds",
+                "html_url": "https://github.com/torvalds",
+                "followers_url": "https://api.github.com/users/torvalds/followers",
+                "following_url": "https://api.github.com/users/torvalds/following{/other_user}",
+                "gists_url": "https://api.github.com/users/torvalds/gists{/gist_id}",
+                "starred_url": "https://api.github.com/users/torvalds/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/torvalds/subscriptions",
+                "organizations_url": "https://api.github.com/users/torvalds/orgs",
+                "repos_url": "https://api.github.com/users/torvalds/repos",
+                "events_url": "https://api.github.com/users/torvalds/events{/privacy}",
+                "received_events_url": "https://api.github.com/users/torvalds/received_events",
+                "type": "User",
+                "user_view_type": "public",
+                "site_admin": false
+              },
+              "created_at": "2026-01-16T17:42:16Z",
+              "updated_at": "2026-01-16T17:42:16Z",
+              "body": "You are of course correct. A lot of the pots are very random ranges, but this one in particular more random than some.\n\nI think I was messing with it in order to get a much clearer response with the test file while on a noisy plane with not-so-great in-ear headphones, and that's when I changed the \"octaves\" to be a larger range for some extreme frequency range.\n\nAnd that worked fine with the default pot setting (in the middle), but yeah, it makes the higher frequencies go way past the range. You can see that the comment about the center frequency is completely wrong because I've been randomly messing with this all.\n\nI think I want to keep the default center frequency somewhere in roughly that 880Hz range (no good reason for it), but I'll change 'octaves' back to 2 (four octaves both ways is really excessive and part of the problem), and also just make the cubic pot behavior be quadratic. \n\nThanks for noticing.",
+              "reactions": {
+                "url": "https://api.github.com/repos/torvalds/AudioNoise/issues/comments/3761120722/reactions",
+                "total_count": 0,
+                "+1": 0,
+                "-1": 0,
+                "laugh": 0,
+                "hooray": 0,
+                "confused": 0,
+                "heart": 0,
+                "rocket": 0,
+                "eyes": 0
+              },
+              "performed_via_github_app": null
+            }
+          },
+          "public": true,
+          "created_at": "2026-01-16T17:42:16Z"
+        },
+        {
+          "id": "7518766204",
+          "type": "PushEvent",
+          "actor": {
+            "id": 1024025,
+            "login": "torvalds",
+            "display_login": "torvalds",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/torvalds",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1024025?"
+          },
+          "repo": {
+            "id": 2325298,
+            "name": "torvalds/linux",
+            "url": "https://api.github.com/repos/torvalds/linux"
+          },
+          "payload": {
+            "repository_id": 2325298,
+            "push_id": 29813963026,
+            "ref": "refs/heads/master",
+            "head": "983d014aafb14ee5e4915465bf8948e8f3a723b5",
+            "before": "603c05a1639f60e0c52c5fdd25cf5e0b44b9bd8e"
+          },
+          "public": true,
+          "created_at": "2026-01-16T01:00:15Z"
+        },
+        {
+          "id": "7516642503",
+          "type": "PushEvent",
+          "actor": {
+            "id": 1024025,
+            "login": "torvalds",
+            "display_login": "torvalds",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/torvalds",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1024025?"
+          },
+          "repo": {
+            "id": 1130786764,
+            "name": "torvalds/AudioNoise",
+            "url": "https://api.github.com/repos/torvalds/AudioNoise"
+          },
+          "payload": {
+            "repository_id": 1130786764,
+            "push_id": 29811837250,
+            "ref": "refs/heads/main",
+            "head": "745e79b0ef279d98ae8f2ef450bf7d7b9abb13f4",
+            "before": "2a4f19102e2af9b67b36f96b0b6c3839d0c1fe9f"
+          },
+          "public": true,
+          "created_at": "2026-01-15T23:12:55Z"
+        },
+        {
+          "id": "7512407485",
+          "type": "PushEvent",
+          "actor": {
+            "id": 1024025,
+            "login": "torvalds",
+            "display_login": "torvalds",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/torvalds",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1024025?"
+          },
+          "repo": {
+            "id": 2325298,
+            "name": "torvalds/linux",
+            "url": "https://api.github.com/repos/torvalds/linux"
+          },
+          "payload": {
+            "repository_id": 2325298,
+            "push_id": 29807599017,
+            "ref": "refs/heads/master",
+            "head": "603c05a1639f60e0c52c5fdd25cf5e0b44b9bd8e",
+            "before": "944aacb68baf7624ab8d277d0ebf07f025ca137c"
+          },
+          "public": true,
+          "created_at": "2026-01-15T20:12:06Z"
+        },
+        {
+          "id": "7483688469",
+          "type": "PushEvent",
+          "actor": {
+            "id": 1024025,
+            "login": "torvalds",
+            "display_login": "torvalds",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/torvalds",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1024025?"
+          },
+          "repo": {
+            "id": 1130786764,
+            "name": "torvalds/AudioNoise",
+            "url": "https://api.github.com/repos/torvalds/AudioNoise"
+          },
+          "payload": {
+            "repository_id": 1130786764,
+            "push_id": 29778848826,
+            "ref": "refs/heads/main",
+            "head": "2a4f19102e2af9b67b36f96b0b6c3839d0c1fe9f",
+            "before": "cc47b99f07dbf371db02d289b543c29dc17dc088"
+          },
+          "public": true,
+          "created_at": "2026-01-15T01:22:57Z"
+        },
+        {
+          "id": "7478302223",
+          "type": "PushEvent",
+          "actor": {
+            "id": 1024025,
+            "login": "torvalds",
+            "display_login": "torvalds",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/torvalds",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1024025?"
+          },
+          "repo": {
+            "id": 2325298,
+            "name": "torvalds/linux",
+            "url": "https://api.github.com/repos/torvalds/linux"
+          },
+          "payload": {
+            "repository_id": 2325298,
+            "push_id": 29773447118,
+            "ref": "refs/heads/master",
+            "head": "944aacb68baf7624ab8d277d0ebf07f025ca137c",
+            "before": "e0d4140e804380ae898da1e4c58c21e6323415a4"
+          },
+          "public": true,
+          "created_at": "2026-01-14T21:08:52Z"
+        },
+        {
+          "id": "5817042472",
+          "type": "IssueCommentEvent",
+          "actor": {
+            "id": 1024025,
+            "login": "torvalds",
+            "display_login": "torvalds",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/torvalds",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1024025?"
+          },
+          "repo": {
+            "id": 1130786764,
+            "name": "torvalds/AudioNoise",
+            "url": "https://api.github.com/repos/torvalds/AudioNoise"
+          },
+          "payload": {
+            "action": "created",
+            "issue": {
+              "url": "https://api.github.com/repos/torvalds/AudioNoise/issues/43",
+              "repository_url": "https://api.github.com/repos/torvalds/AudioNoise",
+              "labels_url": "https://api.github.com/repos/torvalds/AudioNoise/issues/43/labels{/name}",
+              "comments_url": "https://api.github.com/repos/torvalds/AudioNoise/issues/43/comments",
+              "events_url": "https://api.github.com/repos/torvalds/AudioNoise/issues/43/events",
+              "html_url": "https://github.com/torvalds/AudioNoise/issues/43",
+              "id": 3810882670,
+              "node_id": "I_kwDOQ2ZvzM7jJXRu",
+              "number": 43,
+              "title": "Question about 52kHz sample rate vs standard 48kHz efficiency",
+              "user": {
+                "login": "axelcaruso",
+                "id": 227440773,
+                "node_id": "U_kgDODY54hQ",
+                "avatar_url": "https://avatars.githubusercontent.com/u/227440773?v=4",
+                "gravatar_id": "",
+                "url": "https://api.github.com/users/axelcaruso",
+                "html_url": "https://github.com/axelcaruso",
+                "followers_url": "https://api.github.com/users/axelcaruso/followers",
+                "following_url": "https://api.github.com/users/axelcaruso/following{/other_user}",
+                "gists_url": "https://api.github.com/users/axelcaruso/gists{/gist_id}",
+                "starred_url": "https://api.github.com/users/axelcaruso/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/axelcaruso/subscriptions",
+                "organizations_url": "https://api.github.com/users/axelcaruso/orgs",
+                "repos_url": "https://api.github.com/users/axelcaruso/repos",
+                "events_url": "https://api.github.com/users/axelcaruso/events{/privacy}",
+                "received_events_url": "https://api.github.com/users/axelcaruso/received_events",
+                "type": "User",
+                "user_view_type": "public",
+                "site_admin": false
+              },
+              "labels": [],
+              "state": "closed",
+              "locked": false,
+              "assignee": null,
+              "assignees": [],
+              "milestone": null,
+              "comments": 3,
+              "created_at": "2026-01-13T22:52:48Z",
+              "updated_at": "2026-01-15T00:06:16Z",
+              "closed_at": "2026-01-15T00:06:16Z",
+              "active_lock_reason": null,
+              "sub_issues_summary": {
+                "total": 0,
+                "completed": 0,
+                "percent_completed": 0
+              },
+              "issue_dependencies_summary": {
+                "blocked_by": 0,
+                "total_blocked_by": 0,
+                "blocking": 0,
+                "total_blocking": 0
+              },
+              "body": "I read that the GuitarPedal hardware uses 52kHz for no apparent reason. Do you think this significantly impacts the performance of effects processing like the Phaser or Flanger in terms of latency, or does RightThing(tm) handle it without any extra cost?",
+              "reactions": {
+                "url": "https://api.github.com/repos/torvalds/AudioNoise/issues/43/reactions",
+                "total_count": 0,
+                "+1": 0,
+                "-1": 0,
+                "laugh": 0,
+                "hooray": 0,
+                "confused": 0,
+                "heart": 0,
+                "rocket": 0,
+                "eyes": 0
+              },
+              "timeline_url": "https://api.github.com/repos/torvalds/AudioNoise/issues/43/timeline",
+              "performed_via_github_app": null,
+              "state_reason": "completed"
+            },
+            "comment": {
+              "url": "https://api.github.com/repos/torvalds/AudioNoise/issues/comments/3751722939",
+              "html_url": "https://github.com/torvalds/AudioNoise/issues/43#issuecomment-3751722939",
+              "issue_url": "https://api.github.com/repos/torvalds/AudioNoise/issues/43",
+              "id": 3751722939,
+              "node_id": "IC_kwDOQ2ZvzM7fnr-7",
+              "user": {
+                "login": "torvalds",
+                "id": 1024025,
+                "node_id": "MDQ6VXNlcjEwMjQwMjU=",
+                "avatar_url": "https://avatars.githubusercontent.com/u/1024025?v=4",
+                "gravatar_id": "",
+                "url": "https://api.github.com/users/torvalds",
+                "html_url": "https://github.com/torvalds",
+                "followers_url": "https://api.github.com/users/torvalds/followers",
+                "following_url": "https://api.github.com/users/torvalds/following{/other_user}",
+                "gists_url": "https://api.github.com/users/torvalds/gists{/gist_id}",
+                "starred_url": "https://api.github.com/users/torvalds/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/torvalds/subscriptions",
+                "organizations_url": "https://api.github.com/users/torvalds/orgs",
+                "repos_url": "https://api.github.com/users/torvalds/repos",
+                "events_url": "https://api.github.com/users/torvalds/events{/privacy}",
+                "received_events_url": "https://api.github.com/users/torvalds/received_events",
+                "type": "User",
+                "user_view_type": "public",
+                "site_admin": false
+              },
+              "created_at": "2026-01-14T21:08:20Z",
+              "updated_at": "2026-01-14T21:08:20Z",
+              "body": "The guitar pedal hardware does that 52k sample rate simply because that way it has a integer multiplier from the system clock (150MHz) to the i2s PIO engine that runs at twice the i2s BCLK.\n\n(In fact, the sample rate is 52083.33333.. it's the 150MHz system clock, divided down by 30 to give a 5MHz PIO clock, which runs at twice the BCLK speed of 2.5MHz, and then divide that with 48 - for with two 24-bit cycles per sample - you end up with a 52kHz sample rate)\n\nThe RP2354A can do fractional PIO engine frequency multipliers, but I *assume* that it is always at system clock boundaries, so I picked an integer multiplier to avoid jitter on the i2s lines.  The TAC5112 - which is the CODEC chip I use on that board - will lock onto the clock signal automatically, and has no precision crystal of its own, and I simply wanted to avoid any jitter issues.\n\nIf somebody knows better about how the fractional PIO cycle divider works, holler.\n\nAnyway, the difference between 48kHz and 52kHz is not meaningful, and the software does take that into account when doing frequency filtering etc, so it should not be something you can actually hear in any way.",
+              "reactions": {
+                "url": "https://api.github.com/repos/torvalds/AudioNoise/issues/comments/3751722939/reactions",
+                "total_count": 3,
+                "+1": 0,
+                "-1": 0,
+                "laugh": 0,
+                "hooray": 0,
+                "confused": 0,
+                "heart": 1,
+                "rocket": 0,
+                "eyes": 2
+              },
+              "performed_via_github_app": null
+            }
+          },
+          "public": true,
+          "created_at": "2026-01-14T21:08:20Z"
+        },
+        {
+          "id": "7475535728",
+          "type": "PushEvent",
+          "actor": {
+            "id": 1024025,
+            "login": "torvalds",
+            "display_login": "torvalds",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/torvalds",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1024025?"
+          },
+          "repo": {
+            "id": 2325298,
+            "name": "torvalds/linux",
+            "url": "https://api.github.com/repos/torvalds/linux"
+          },
+          "payload": {
+            "repository_id": 2325298,
+            "push_id": 29770672951,
+            "ref": "refs/heads/master",
+            "head": "e0d4140e804380ae898da1e4c58c21e6323415a4",
+            "before": "c537e12daeecaecdcd322c56a5f70659d2de7bde"
+          },
+          "public": true,
+          "created_at": "2026-01-14T19:23:52Z"
+        }
+      ]
+    },
+    "timestamp": 1768623308754
+  },
+  "events_GTfort_15_all": {
+    "data": {
+      "user": {
+        "login": "GTfort",
+        "id": 104755136,
+        "node_id": "U_kgDOBj5vwA",
+        "avatar_url": "https://avatars.githubusercontent.com/u/104755136?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/GTfort",
+        "html_url": "https://github.com/GTfort",
+        "followers_url": "https://api.github.com/users/GTfort/followers",
+        "following_url": "https://api.github.com/users/GTfort/following{/other_user}",
+        "gists_url": "https://api.github.com/users/GTfort/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/GTfort/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/GTfort/subscriptions",
+        "organizations_url": "https://api.github.com/users/GTfort/orgs",
+        "repos_url": "https://api.github.com/users/GTfort/repos",
+        "events_url": "https://api.github.com/users/GTfort/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/GTfort/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false,
+        "name": "Itode Fortune ",
+        "company": null,
+        "blog": "",
+        "location": null,
+        "email": null,
+        "hireable": null,
+        "bio": null,
+        "twitter_username": null,
+        "public_repos": 48,
+        "public_gists": 0,
+        "followers": 2,
+        "following": 3,
+        "created_at": "2022-05-02T07:12:48Z",
+        "updated_at": "2025-12-15T11:57:43Z"
+      },
+      "events": [
+        {
+          "id": "7555911430",
+          "type": "PushEvent",
+          "actor": {
+            "id": 104755136,
+            "login": "GTfort",
+            "display_login": "GTfort",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/GTfort",
+            "avatar_url": "https://avatars.githubusercontent.com/u/104755136?"
+          },
+          "repo": {
+            "id": 1136095220,
+            "name": "GTfort/github-activity-cli",
+            "url": "https://api.github.com/repos/GTfort/github-activity-cli"
+          },
+          "payload": {
+            "repository_id": 1136095220,
+            "push_id": 29851138120,
+            "ref": "refs/heads/main",
+            "head": "c88632db67a25fe29ad231fbe3d65b45a7310b0d",
+            "before": "272c4f15635a2c6240da398e04619bfb197b5ca7"
+          },
+          "public": true,
+          "created_at": "2026-01-17T04:05:46Z"
+        },
+        {
+          "id": "7555775350",
+          "type": "CreateEvent",
+          "actor": {
+            "id": 104755136,
+            "login": "GTfort",
+            "display_login": "GTfort",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/GTfort",
+            "avatar_url": "https://avatars.githubusercontent.com/u/104755136?"
+          },
+          "repo": {
+            "id": 1136095220,
+            "name": "GTfort/github-activity-cli",
+            "url": "https://api.github.com/repos/GTfort/github-activity-cli"
+          },
+          "payload": {
+            "ref": "main",
+            "ref_type": "branch",
+            "full_ref": "refs/heads/main",
+            "master_branch": "main",
+            "description": null,
+            "pusher_type": "user"
+          },
+          "public": true,
+          "created_at": "2026-01-17T03:56:16Z"
+        },
+        {
+          "id": "7552044147",
+          "type": "PushEvent",
+          "actor": {
+            "id": 104755136,
+            "login": "GTfort",
+            "display_login": "GTfort",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/GTfort",
+            "avatar_url": "https://avatars.githubusercontent.com/u/104755136?"
+          },
+          "repo": {
+            "id": 1135758077,
+            "name": "GTfort/task-cli",
+            "url": "https://api.github.com/repos/GTfort/task-cli"
+          },
+          "payload": {
+            "repository_id": 1135758077,
+            "push_id": 29847267600,
+            "ref": "refs/heads/main",
+            "head": "0880cd80276af6c2bf3a69594a5c093082876f6d",
+            "before": "bbf6cb80afa26ab4384f25491b657cb446d44b18"
+          },
+          "public": true,
+          "created_at": "2026-01-16T23:51:37Z"
+        },
+        {
+          "id": "7539622079",
+          "type": "PushEvent",
+          "actor": {
+            "id": 104755136,
+            "login": "GTfort",
+            "display_login": "GTfort",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/GTfort",
+            "avatar_url": "https://avatars.githubusercontent.com/u/104755136?"
+          },
+          "repo": {
+            "id": 1135758077,
+            "name": "GTfort/task-cli",
+            "url": "https://api.github.com/repos/GTfort/task-cli"
+          },
+          "payload": {
+            "repository_id": 1135758077,
+            "push_id": 29834834498,
+            "ref": "refs/heads/main",
+            "head": "bbf6cb80afa26ab4384f25491b657cb446d44b18",
+            "before": "41c72be7e1d3edfe63a83cf5f276e5c59a4f6e3f"
+          },
+          "public": true,
+          "created_at": "2026-01-16T15:27:02Z"
+        },
+        {
+          "id": "7538504827",
+          "type": "CreateEvent",
+          "actor": {
+            "id": 104755136,
+            "login": "GTfort",
+            "display_login": "GTfort",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/GTfort",
+            "avatar_url": "https://avatars.githubusercontent.com/u/104755136?"
+          },
+          "repo": {
+            "id": 1135758077,
+            "name": "GTfort/task-cli",
+            "url": "https://api.github.com/repos/GTfort/task-cli"
+          },
+          "payload": {
+            "ref": "main",
+            "ref_type": "branch",
+            "full_ref": "refs/heads/main",
+            "master_branch": "main",
+            "description": null,
+            "pusher_type": "user"
+          },
+          "public": true,
+          "created_at": "2026-01-16T14:52:19Z"
+        }
+      ]
+    },
+    "timestamp": 1768623320051
   }
 }
